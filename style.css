@@ -1,0 +1,17 @@
+.icon-wrapper {
+    margin-right: 8px; /* Puedes ajustar el valor del margen según tus necesidades */
+    cursor: pointer; /* Cambia el cursor a una mano al pasar el mouse sobre el icono */
+    transition: color 0.3s; /* Agrega una transición de color de 0.3 segundos */
+  }
+
+  .icon-wrapper:hover {
+    color: red; /* Cambia el color del icono al pasar el mouse sobre él */
+  }
+  
+.title{
+  font-size: 3rem;
+  font-weight: 800;
+  align-items: self-start;
+  padding-bottom: 3rem;
+  margin: auto;
+}
