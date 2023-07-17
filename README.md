@@ -16,7 +16,7 @@ Clona el repositorio o descárgalo como archivo ZIP.
 Coloca el contenido en tu servidor web local (por ejemplo, dentro de la carpeta htdocs de XAMPP o www de WAMP).
 Crea una base de datos en tu sistema de gestión de bases de datos llamada pruebatecnica y asegúrate de importar el archivo database.sql incluido en el repositorio para crear la tabla maestros.
 
-## En el siguiente enlace puedss encontrar la documentación más detallasda de la api
+## En el siguiente enlace puedes encontrar la documentación más detallada de la api
 https://app.swaggerhub.com/apis/Danielgb1217/api-maestros_prueba_tecnica/1.0.0
 
 ## Uso de la API
